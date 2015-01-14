@@ -76,6 +76,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OwinApplication\OwinApplication.csproj">
+      <Project>{8c489678-586f-4a5a-9dda-24b3eeb8f8b2}</Project>
+      <Name>OwinApplication</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
