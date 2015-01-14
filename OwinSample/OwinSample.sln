@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetHost", "AspNetHost\AspNetHost.csproj", "{A719FF75-FBB8-402E-B0F1-E43173DC4D93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinApplication", "OwinApplication\OwinApplication.csproj", "{8C489678-586F-4A5A-9DDA-24B3EEB8F8B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A719FF75-FBB8-402E-B0F1-E43173DC4D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A719FF75-FBB8-402E-B0F1-E43173DC4D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A719FF75-FBB8-402E-B0F1-E43173DC4D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C489678-586F-4A5A-9DDA-24B3EEB8F8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C489678-586F-4A5A-9DDA-24B3EEB8F8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C489678-586F-4A5A-9DDA-24B3EEB8F8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C489678-586F-4A5A-9DDA-24B3EEB8F8B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
