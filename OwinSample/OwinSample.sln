@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinApplication", "OwinAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHost", "SelfHost\SelfHost.csproj", "{48FD8664-9038-4FE1-8049-E701EF31DEA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{0CF7D526-2F10-4068-9026-679009DD8B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{48FD8664-9038-4FE1-8049-E701EF31DEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48FD8664-9038-4FE1-8049-E701EF31DEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48FD8664-9038-4FE1-8049-E701EF31DEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF7D526-2F10-4068-9026-679009DD8B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF7D526-2F10-4068-9026-679009DD8B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF7D526-2F10-4068-9026-679009DD8B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF7D526-2F10-4068-9026-679009DD8B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
